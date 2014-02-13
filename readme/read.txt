@@ -1,0 +1,5 @@
+https://github.com/EmberConsultingGroup/JasmineTeamCityReporter
+
+https://github.com/EmberConsultingGroup/Testing-Automation/wiki
+
+https://github.com/EmberConsultingGroup/Testing-Automation/wiki/Team-City-Build-Step-Configuration
